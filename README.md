@@ -39,6 +39,9 @@ thread 2 for index 4 {P2 and P4}
 ![image](https://github.com/Abdelrahman-Elsayed-2001/simulation-for-synchronization-OS-Processes/assets/83625415/b290c73c-f7cf-490e-b1ec-a370dfdfc405)
 
 
+video:
+
+https://drive.google.com/file/d/1EKcd6VhYcd9QzVtAk-rFpODn9MqqE0TY/view?usp=drive_link
 
 
 
