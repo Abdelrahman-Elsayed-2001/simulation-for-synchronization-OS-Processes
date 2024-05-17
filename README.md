@@ -3,10 +3,12 @@
 this project is a simulation for synchronization multi processes to access and edit same address in memory
 
 example:
+
 ![image](https://github.com/Abdelrahman-Elsayed-2001/simulation-for-synchronization-OS-Processes/assets/83625415/a80be70b-215d-4b01-8f7e-fe187fd33a2d)
 
 
 processes:
+
 ![image](https://github.com/Abdelrahman-Elsayed-2001/simulation-for-synchronization-OS-Processes/assets/83625415/e432cb57-253e-42c2-bc7a-c3c9659f9a56)
 
 
@@ -18,6 +20,7 @@ P5 want access Index 4
 How to Synchronize it?
 Sort process by Priority then FIFO (Frist in Frist Out)
 Like this:
+
 ![image](https://github.com/Abdelrahman-Elsayed-2001/simulation-for-synchronization-OS-Processes/assets/83625415/6a6b0b46-814c-4adb-98b5-3cede61db30a)
 
 
